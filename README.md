@@ -1,1 +1,1 @@
-# webpack-school
+# js-group-11-12
