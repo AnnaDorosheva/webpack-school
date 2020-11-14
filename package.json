@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://AnnaDorosheva/webpack-school",
+  "homepage": "https://AnnaDorosheva.github.io/webpack-school",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnnaDorosheva/webpack-school.git"
